@@ -1,6 +1,19 @@
 jogo do número secreto
 
+## ▶️ Scripts úteis
 
+-   **Limpar e reconstruir:**
+
+    `flutter clean && flutter pub get`
+
+-   **Rodar em Chrome:**
+
+    `flutter run -d chrome`
+
+-   **Gerar l10n:**
+
+    `flutter gen-l10n`
+    
 ## 📇 Créditos
 
 <p align="center">
