@@ -1,5 +1,31 @@
 jogo do número secreto
 
+## Como rodar o projeto
+
+1\. **Clone este repositório** para o seu computador:
+
+```bash
+
+git clone https://github.com/seuusuario/to_do_app.git
+```
+Navegue para a pasta do projeto:
+
+Copiar código
+```bash
+cd to_do_app
+```
+Instale as dependências do Flutter:
+
+Copiar código
+```bash
+flutter pub get
+```
+Execute o aplicativo em um emulador Android ou dispositivo físico:
+
+Copiar código
+```bash
+flutter run
+```
 ## ▶️ Scripts úteis
 
 -   **Limpar e reconstruir:**
